@@ -12,6 +12,7 @@ lerna-debug.log*
 03bgchanger/node_modules
 04passwordgenerator/node_modules
 05currencyconvertor/node_modules
+06reactrouter/node_modules
 node_modules
 textutils
 dist
